@@ -9,3 +9,5 @@ a spreadsheet for the student's name by scanning over
 it with my eyes. I have abstracted the idea to make
 it as broadly useful as possible while maintaining the
 simplicity of use.
+
+This project is still under construction.

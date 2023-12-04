@@ -9,5 +9,5 @@ public class DentryApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DentryApplication.class, args);
 	}
-
+	// CommandLineApp should execute
 }
